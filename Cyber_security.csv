@@ -1,0 +1,193 @@
+Country,Region,CEI (The Cybersecurity Exposure Index),GCI (The Global Cyber Security Index),NCSI (The National Cyber Security Index),DDL (The Digital Development Level)
+Afghanistan,Asia-Pasific,1,5.2,11.69,19.5
+Albania,Europe,0.566,64.32,62.34,48.74
+Algeria,Africa,0.721,33.95,33.77,42.81
+Andorra,Europe,0,26.38,0,0
+Angola,Africa,0,12.99,9.09,22.69
+Antigua and Barbuda,North America,0,15.62,11.69,57.1
+Argentina,South America,0.514,50.12,63.64,60.43
+Armenia,Europe,0.655,50.47,35.06,55.06
+Australia,Asia-Pasific,0.131,97.47,66.23,77.61
+Austria,Europe,0.162,93.89,68.83,75.76
+Azerbaijan,Europe,0.531,89.31,59.74,54.78
+Bahamas,North America,0,13.37,20.78,65.1
+Bahrain,Asia-Pasific,0,77.86,25.97,65.17
+Bangladesh,Asia-Pasific,0.759,81.27,67.53,33.11
+Barbados,North America,0,16.89,19.48,73.1
+Belarus,Europe,0.614,50.57,53.25,62.33
+Belgium,Europe,0.19,96.25,94.81,74.07
+Belize,North America,0,10.29,18.18,37.1
+Benin,Africa,0,80.06,58.44,25.83
+Bhutan,Asia-Pasific,0,18.34,18.18,36.9
+Bolivia,South America,0.783,16.14,31.17,42.09
+Bosnia and Herzegovina,Europe,0.583,29.44,28.57,49.31
+Botswana,Africa,0,53.06,29.87,41.96
+Brazil,South America,0.541,96.6,51.95,59.11
+Brunei Darussalam,Asia-Pasific,0,56.07,41.56,67.5
+Bulgaria,Europe,0.483,67.38,74.03,62.06
+Burkina Faso,Africa,0,39.98,0,0
+Burundi,Africa,0,1.73,7.79,18.64
+Cabo Verde,Africa,0,17.74,0,0
+Cambodia,Asia-Pasific,0.703,19.12,15.58,34.59
+Cameroon,Africa,0.707,45.63,32.47,28.28
+Canada,North America,0.207,97.67,70.13,75.96
+Central African Republic,Africa,0,3.24,0,0
+Chad,Africa,0,40.44,20.78,17.28
+Chile,South America,0.469,68.83,59.74,61.44
+China,Asia-Pasific,0.483,92.53,51.95,62.41
+Colombia,South America,0.59,63.72,53.25,52.08
+Comoros,Africa,0,3.72,0,0
+Congo,Africa,0,14.72,5.19,18.91
+Costa Rica,North America,0.438,67.45,49.35,58.87
+Cote d'ivoire,North America,0,67.82,31.17,33.54
+Croatia,Europe,0.255,92.53,83.12,81.51
+Cuba,North America,0,58.76,16.88,29.1
+Cyprus,Europe,0.334,88.82,66.23,68.83
+Czech Republic,Europe,0.334,74.37,92.21,69.21
+Denmark,Europe,0.117,92.6,84.42,82.68
+Djibouti,Africa,0,1.73,0,0
+Dominica,North America,0,4.2,3.9,56.9
+Dominican Republic,North America,0.497,75.05,71.43,45.21
+Ecuador,South America,0.652,26.3,53.25,45.57
+Egypt,Africa,0.548,95.48,57.14,46.93
+El Salvador,North America,0.617,13.3,24.68,39.17
+Equatorial Guinea,Africa,0,1.46,0,0
+Eritrea,Africa,0,1.73,0,0
+Estonia,Europe,0.134,99.48,93.51,75.59
+Eswatini,Africa,0,18.23,0,0
+Ethiopia,Africa,0.866,27.74,32.47,20.7
+Fiji,Asia-Pasific,0,29.08,0,0
+Finland,Europe,0.11,95.78,85.71,78.35
+France,Europe,0.228,97.6,84.42,77.29
+Gabon,Africa,0,11.36,0,0
+Gambia,Africa,0,32.12,11.69,0
+Georgia,Europe,0.383,81.06,64.94,53.5
+Germany,Europe,0.241,97.41,90.91,80.01
+Ghana,Africa,0,86.69,31.17,40.68
+Greece,Europe,0.4,93.98,96.1,64.02
+Grenada,North America,0,9.41,20.78,58
+Guatemala,North America,0,13.13,24.68,35.43
+Guinea,Africa,0,20.53,0,0
+Guinea-Bissau,Africa,0,9.85,0,0
+Guyana,South America,0,28.11,10.39,42.91
+Haiti,North America,0,6.4,10.39,26.46
+Honduras,North America,0.603,2.2,22.08,35.09
+Hungary,Europe,0.286,91.28,67.53,64.25
+Iceland,Europe,0.348,79.81,55.84,78.64
+India,Asia-Pasific,0.597,97.5,59.74,40.02
+Indonesia,Asia-Pasific,0.617,94.88,38.96,47.41
+Iran,Asia-Pasific,0,81.07,14.29,51.04
+Iraq,Asia-Pasific,0.69,20.71,5.19,0
+Ireland,Europe,0.255,85.86,75.32,75.18
+Israel,Asia-Pasific,0.297,90.93,67.53,75.5
+Italy,Europe,0.269,96.13,79.22,67.26
+Jamaica,North America,0,32.53,41.56,48.18
+Japan,Asia-Pasific,0.138,97.82,63.64,78.69
+Jordan,Asia-Pasific,0.586,70.96,28.57,54.07
+Kazakhstan,Asia-Pasific,0.579,93.15,48.05,60.18
+Kenya,Africa,0.548,81.7,41.56,37.14
+Kiribati,Asia-Pasific,0,13.84,5.19,21.7
+Kuwait,Asia-Pasific,0.428,75.07,0,0
+Kyrgyzstan,Asia-Pasific,0.693,49.64,37.66,42.96
+Lao PDR,Asia-Pasific,0,20.34,18.18,32.37
+Latvia,Europe,0.352,97.28,75.32,66.23
+Lebanon,Asia-Pasific,0.579,30.44,0,0
+Lesotho,Africa,0,9.08,0,0
+Liberia,Africa,0,9.72,19.48,0
+Libya,Africa,0.793,28.78,10.39,41.1
+Liechtenstein,Europe,0,35.15,31.17,0
+Lithuania,Europe,0.297,97.93,93.51,67.34
+Luxembourg,Europe,0.124,97.41,66.23,78.4
+Madagascar,Africa,0,23.33,12.99,22.8
+Malawi,Africa,0,36.83,27.27,23.2
+Malaysia,Asia-Pasific,0.293,98.06,79.22,62.19
+Maldives,Asia-Pasific,0,2.95,0,0
+Mali,Africa,0,10.14,19.48,0
+Malta,Europe,0,83.65,50.65,71.74
+Marshall Islands,Asia-Pasific,0,4.9,0,0
+Mauritania,Africa,0,18.94,11.69,11.3
+Mauritius,Africa,0.2,96.89,44.16,53.57
+Mexico,North America,0.483,81.68,37.66,51.46
+Moldova,Europe,0.545,75.78,50.65,56.79
+Monaco,Europe,0,72.57,40.26,0
+Mongolia,Asia-Pasific,0.738,26.2,18.18,46.41
+Montenegro,Europe,0,53.23,35.06,57.79
+Morocco,Africa,0.748,82.41,70.13,46.88
+Mozambique,Africa,0,24.18,9.09,24.88
+Myanmar,Asia-Pasific,0.91,36.41,10.39,34.29
+Namibia,Africa,0.679,11.47,15.58,37.28
+Nauru,Asia-Pasific,0,21.42,0,0
+Nepal,Asia-Pasific,0.762,44.99,28.57,30.58
+Netherlands,Europe,0.262,97.05,83.12,81.86
+New Zealand,Asia-Pasific,0.179,84.04,51.95,76.81
+Nicaragua,North America,0.6,9,29.87,32.7
+Niger,Africa,0,11.38,0,0
+Nigeria,Africa,0.614,84.76,54.55,31.76
+North Korea,Asia-Pasific,0,1.35,0,0
+North Macedonia,Europe,0.352,89.92,55.84,55.36
+Norway,Europe,0.134,96.89,67.53,80.19
+Oman,Asia-Pasific,0,96.04,45.45,59.51
+Pakistan,Asia-Pasific,0.755,64.88,42.86,32.23
+Palestine,Asia-Pasific,0.855,25.18,0,0
+Panama,North America,0.569,34.11,50.65,48.43
+Papua New Guinea,Asia-Pasific,0,26.33,22.08,0
+Paraguay,South America,0.414,57.09,63.64,42.58
+Peru,South America,0.648,55.67,62.34,48.23
+Philippines,Asia-Pasific,0.621,77,63.64,45.99
+Poland,Europe,0.286,93.86,87.01,65.03
+Portugal,Europe,0.303,97.32,89.61,68.46
+Qatar,Asia-Pasific,0.241,94.5,58.44,64.99
+Romania,Europe,0.462,76.29,89.61,59.84
+Russia,Europe,0.528,98.06,71.43,65.12
+Rwanda,Africa,0,79.95,33.77,30.23
+Saint Kitts and Nevis,North America,0,12.44,11.69,72.4
+Saint Lucia,North America,0,10.96,12.99,46.3
+Saint Vincent and the Grenadines,North America,0,12.18,7.79,55.4
+Samoa,Asia-Pasific,0,29.33,10.39,33
+San Marino,Europe,0,13.83,23.08,0
+Sao Tome and Principe,Africa,0,15.64,0,0
+Saudi Arabia,Asia-Pasific,0.39,99.54,84.42,63.89
+Senegal,Africa,0,35.85,19.48,33.04
+Serbia,Europe,0.434,89.8,80.52,59.81
+Seychelles,Africa,0,13.23,10.39,50.3
+Sierra Leone,Africa,0,25.31,7.79,0
+Singapore,Asia-Pasific,0.231,98.52,71.43,79.93
+Slovakia,Europe,0.262,92.36,83.12,65.44
+Slovenia,Europe,0.283,74.93,59.74,69.74
+Solomon Islands,Asia-Pasific,0,7.08,2.6,21.1
+Somalia,Africa,0,17.25,18.18,0
+South Africa,Africa,0.417,78.46,36.36,49.24
+South Korea,Asia-Pasific,0.269,98.52,68.83,75.76
+South Sudan,Africa,0,5.75,1.3,0
+Spain,Europe,0.21,98.52,88.31,72.21
+Sri Lanka,Asia-Pasific,0.745,58.65,44.16,43.02
+Sudan,Africa,0,35.03,11.69,25.5
+Suriname,South America,0,31.2,22.08,51.5
+Sweden,Europe,0.21,94.55,84.42,81.51
+Switzerland,Europe,0.172,86.97,76.62,82.93
+Syria,Asia-Pasific,0,22.14,15.58,33.4
+Tajikistan,Asia-Pasific,0,17.01,10.39,34.56
+Tanzania,Africa,0.731,90.58,24.68,26.96
+Thailand,Asia-Pasific,0.445,86.5,64.94,56.63
+Timor-Leste,Asia-Pasific,0,4.26,0,0
+Togo,Africa,0,33.19,0,0
+Tonga,Asia-Pasific,0,20.95,23.38,43.4
+Trinidad and Tobago,North America,0,22.18,33.77,52.6
+Tunisia,Africa,0.614,86.23,53.25,46.26
+Turkey,Asia-Pasific,0.483,97.49,54.55,58.29
+Turkmenistan,Asia-Pasific,0,14.48,7.79,0
+Tuvalu,Asia-Pasific,0,5.78,2.6,0
+Uganda,Africa,0.634,69.98,50.65,26.71
+Ukraine,Europe,0.569,65.93,75.32,55.96
+United Arab Emirates,Asia-Pasific,0.359,98.06,40.26,68.87
+United Kingdom,Europe,0.207,99.54,89.61,79.96
+United States,North America,0.145,100,64.94,81.05
+Uruguay,South America,0.348,75.15,59.74,63.86
+Uzbekistan,Asia-Pasific,0.721,71.11,36.36,49
+Vanuatu,Asia-Pasific,0,12.88,25.97,28.1
+Vatican City,Europe,0,0,2.6,0
+Venezuela,Africa,0.807,27.06,28.57,43.14
+Vietnam,Asia-Pasific,0,94.59,36.36,47.69
+Yemen,Asia-Pasific,0,0,7.79,0
+Zambia,Africa,0.745,68.88,55.84,29.66
+Zimbabwe,Africa,0.724,36.49,15.58,28.97
